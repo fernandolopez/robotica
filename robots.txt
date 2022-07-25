@@ -1,0 +1,4 @@
+Sitemap: https://www.edurobotica.com.ar/sitemapindex.xml
+
+User-Agent: *
+Host: www.edurobotica.com.ar
