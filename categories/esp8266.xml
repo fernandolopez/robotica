@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Robótica Educativa (Publicaciones sobre esp8266)</title><link>https://www.edurobotica.com.ar/</link><description></description><atom:link href="https://www.edurobotica.com.ar/categories/esp8266.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:fernando.e.lopez@gmail.com"&gt;Fernando López&lt;/a&gt; </copyright><lastBuildDate>Wed, 27 Jul 2022 15:35:38 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Is this Arduino?</title><link>https://www.edurobotica.com.ar/posts/is-this-arduino/</link><dc:creator>Fernando López</dc:creator><description>&lt;p&gt;&lt;span style="display: block; clear: both;"&gt;&lt;/span&gt;&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Robótica Educativa (Publicaciones sobre esp8266)</title><link>https://www.edurobotica.com.ar/</link><description></description><atom:link href="https://www.edurobotica.com.ar/categories/esp8266.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:fernando.e.lopez@gmail.com"&gt;Fernando López&lt;/a&gt; </copyright><lastBuildDate>Wed, 27 Jul 2022 17:19:04 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Is this Arduino?</title><link>https://www.edurobotica.com.ar/posts/is-this-arduino/</link><dc:creator>Fernando López</dc:creator><description>&lt;p&gt;&lt;span style="display: block; clear: both;"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h3&gt;¿Qué dice google?&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="Is this Arduino?" src="https://www.edurobotica.com.ar/images/isthisarduino/isthisarduino.jpg" style="max-width: 30%; float: right;"&gt;&lt;/p&gt;
 &lt;p&gt;Si buscás Arduino en Internet, ya sea en un buscador o en M@rcado "Libre" vas a
@@ -59,6 +59,8 @@ que pueden ser muy convenientes si buscamos algo de esto.&lt;/p&gt;
 &lt;p&gt;
 &lt;span style="display: block; clear: both;"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h3&gt;¿Qué me conviene?&lt;/h3&gt;
+&lt;p&gt;Dependiendo de lo que necesitas hay muchas opciones, dejo como
+ejemplo algunas de las más comunes.&lt;/p&gt;
 &lt;p&gt;En qué lenguaje/entorno de programación querés programar la placa:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Arduino IDE: Originales, clones y compatibles te puede servir.&lt;/li&gt;

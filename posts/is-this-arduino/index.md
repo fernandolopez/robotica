@@ -94,6 +94,9 @@ que pueden ser muy convenientes si buscamos algo de esto.
 ¿Qué me conviene?
 -----------------
 
+Dependiendo de lo que necesitas hay muchas opciones, dejo como
+ejemplo algunas de las más comunes.
+
 En qué lenguaje/entorno de programación querés programar la placa:
 
 * Arduino IDE: Originales, clones y compatibles te puede servir.
