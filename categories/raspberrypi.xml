@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Robótica Educativa</title><link>https://www.edurobotica.com.ar/</link><description>Recursos y anécdotas de robótica educativa, electrónica y proyectos.</description><atom:link href="https://www.edurobotica.com.ar/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:fernando.e.lopez@gmail.com"&gt;Fernando López&lt;/a&gt; </copyright><lastBuildDate>Wed, 27 Jul 2022 15:35:38 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Is this Arduino?</title><link>https://www.edurobotica.com.ar/posts/is-this-arduino/</link><dc:creator>Fernando López</dc:creator><description>&lt;p&gt;&lt;span style="display: block; clear: both;"&gt;&lt;/span&gt;&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Robótica Educativa (Publicaciones sobre raspberrypi)</title><link>https://www.edurobotica.com.ar/</link><description></description><atom:link href="https://www.edurobotica.com.ar/categories/raspberrypi.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:fernando.e.lopez@gmail.com"&gt;Fernando López&lt;/a&gt; </copyright><lastBuildDate>Wed, 27 Jul 2022 15:35:38 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Is this Arduino?</title><link>https://www.edurobotica.com.ar/posts/is-this-arduino/</link><dc:creator>Fernando López</dc:creator><description>&lt;p&gt;&lt;span style="display: block; clear: both;"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h3&gt;¿Qué dice google?&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="Is this Arduino?" src="https://www.edurobotica.com.ar/images/isthisarduino/isthisarduino.jpg" style="max-width: 30%; float: right;"&gt;&lt;/p&gt;
 &lt;p&gt;Si buscás Arduino en Internet, ya sea en un buscador o en M@rcado "Libre" vas a
@@ -104,29 +104,4 @@ y ejemplos en Internet.&lt;/li&gt;
 &lt;p&gt;&lt;span style="display: block; clear: both;"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h3&gt;Too long, didn't read&lt;/h3&gt;
 &lt;p&gt;Probablemente no lo sea, pero no importa.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</description><category>arduino</category><category>esp32</category><category>esp8266</category><category>micropython</category><category>raspberrypi</category><guid>https://www.edurobotica.com.ar/posts/is-this-arduino/</guid><pubDate>Wed, 27 Jul 2022 12:43:57 GMT</pubDate></item><item><title>start()</title><link>https://www.edurobotica.com.ar/posts/start/</link><dc:creator>Fernando López</dc:creator><description>&lt;p&gt;El propósito de este blog es publicar artículos sobre electrónica, robótica
-educativa y otros temas.&lt;/p&gt;
-&lt;p&gt;Personalmente yo soy desarrollador de software, pero me interesan varios
-temas como la electrónica y la impresión 3D.&lt;/p&gt;
-&lt;p&gt;En Argentina, en la provincia de Buenos Aires, entre los años 2018 y 2020
-existió un proyecto estatal cuyo propósito era usar la robótica como
-herramienta educativa en escuelas primarias. En este contexto el ministerio
-de educación distribuyó kits de robótica
-de distintas marcas en escuelas primarias estatales y privadas.&lt;/p&gt;
-&lt;p&gt;Estos kits que fueron diseñados o configurados de acuerdo a los requerimientos
-del proyecto se denominaron T-Bot (fabricado por Robotgroup),
-E-Bot (fabricado por Educabot) y L-Bot (fabricado por Mis Ladrillos).&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Kits de robótica" src="https://www.edurobotica.com.ar/images/kits/kits.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;En esta oportunidad con el fin de darles propósito nuevamente a esos
-kits y evitar que se conviertan en E-Waste quiero compartir algunos
-documentos que solían estar publicados en https://www.edurobotica.edu.ar
-(página que lleva inactiva al menos 2 años). Estos primeros documentos son
-datasheets con algunas características técnicas de los kits.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://drive.google.com/file/d/1ZkF4h_jN6WLc9AC_SEgOKOWPEDaC5Lx9/view?usp=sharing"&gt;Datasheet de la placa principal del kit L-Bot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://drive.google.com/file/d/13zT191EMNxrGKJ_NHoD9BTB4Jpe0x3Dd/view?usp=sharing"&gt;Datasheet de la placa principal del kit E-Bot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://drive.google.com/file/d/1D7iVSWSITkZnGjibYjDE5toRDqKpQHLE/view?usp=sharing"&gt;Datasheet de la placa principal del kit T-Bot&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Todos estos documentos fueron publicados originalmente con licencia CC-BY-SA
-por el Ministerio de Educación de la Provincia de Buenos Aires, por lo que
-pueden ser copiados y usados libremente.&lt;/p&gt;</description><guid>https://www.edurobotica.com.ar/posts/start/</guid><pubDate>Mon, 25 Jul 2022 20:08:40 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;</description><category>arduino</category><category>esp32</category><category>esp8266</category><category>micropython</category><category>raspberrypi</category><guid>https://www.edurobotica.com.ar/posts/is-this-arduino/</guid><pubDate>Wed, 27 Jul 2022 12:43:57 GMT</pubDate></item></channel></rss>

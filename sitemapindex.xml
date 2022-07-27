@@ -6,47 +6,35 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://www.edurobotica.com.ar/authors/fernando-lopez.xml</loc>
-  <lastmod>2022-07-25T20:24:00Z</lastmod>
+  <loc>https://www.edurobotica.com.ar/categories/arduino.xml</loc>
+  <lastmod>2022-07-27T15:34:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.edurobotica.com.ar/authors/roberto-alsina.xml</loc>
-  <lastmod>2022-07-25T20:03:00Z</lastmod>
+  <loc>https://www.edurobotica.com.ar/categories/esp32.xml</loc>
+  <lastmod>2022-07-27T15:34:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.edurobotica.com.ar/categories/blog.xml</loc>
-  <lastmod>2022-07-25T20:01:00Z</lastmod>
+  <loc>https://www.edurobotica.com.ar/categories/esp8266.xml</loc>
+  <lastmod>2022-07-27T15:34:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.edurobotica.com.ar/categories/cat_nikola.xml</loc>
-  <lastmod>2022-07-25T20:01:00Z</lastmod>
+  <loc>https://www.edurobotica.com.ar/categories/micropython.xml</loc>
+  <lastmod>2022-07-27T15:34:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.edurobotica.com.ar/categories/demo.xml</loc>
-  <lastmod>2022-07-25T20:01:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.edurobotica.com.ar/categories/nikola.xml</loc>
-  <lastmod>2022-07-25T20:01:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.edurobotica.com.ar/categories/python.xml</loc>
-  <lastmod>2022-07-25T20:01:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.edurobotica.com.ar/galleries/demo/rss.xml</loc>
-  <lastmod>2022-07-25T20:31:00Z</lastmod>
+  <loc>https://www.edurobotica.com.ar/categories/raspberrypi.xml</loc>
+  <lastmod>2022-07-27T15:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.edurobotica.com.ar/galleries/rss.xml</loc>
-  <lastmod>2022-07-25T20:31:00Z</lastmod>
+  <lastmod>2022-07-27T12:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.edurobotica.com.ar/rss.xml</loc>
-  <lastmod>2022-07-25T21:48:00Z</lastmod>
+  <lastmod>2022-07-27T15:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.edurobotica.com.ar/sitemap.xml</loc>
-  <lastmod>2022-07-25T22:00:00Z</lastmod>
+  <lastmod>2022-07-27T15:34:00Z</lastmod>
  </sitemap>
 </sitemapindex>
