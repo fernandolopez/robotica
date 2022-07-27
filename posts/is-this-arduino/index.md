@@ -99,7 +99,7 @@ ejemplo algunas de las más comunes.
 
 En qué lenguaje/entorno de programación querés programar la placa:
 
-* Arduino IDE: Originales, clones y compatibles te puede servir.
+* Arduino IDE: Originales, clones y compatibles te pueden servir.
 * Micropython/circuit Python: Raspberry Pi Pico, ESP32-S, algunas
 placas de Adafruit, etc...
 
@@ -118,7 +118,8 @@ Conectividad inalámbrica:
     - Raspberry Pi Pico
     - Alguna Raspberry Pi con WiFi integrado (acá ya estamos en la
     categoría de computadoras más que microcontroladores pero pueden
-    ser una alternativa.)
+    ser una alternativa, hay que tener en cuenta que en general en
+    la Raspberry Pi el desarrollo es en Python)
 * Bluetooth/BLE:
     - ESP32-S (Preferentemente algún módulo con el chip CP2102)
     - Alguna Raspberry Pi con Bluetooth integrado
