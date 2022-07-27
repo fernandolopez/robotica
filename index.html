@@ -103,15 +103,17 @@ algunos de ellos los vas a poder conectar con un Arduino, pero otro no.</p>
 <p><img alt="Es y no es. Usted me entiende." src="images/isthisarduino/esynoes.jpg" style="max-width: 30%; float: right;"></p>
 <p>Las placas originales son las que distribuye Arduino CC o algún distribuidor autorizado
 como Adafruit. La placa tiene la palabra "Arduino" en su nombre y las clásicas dicen
-"Made in Italy". Son de muy buena calidad, relativamente caras y vienen en una cajita
-muy bonita.</p>
+"Designed and assembled in Italy". Son de muy buena calidad, relativamente caras y
+vienen en una cajita muy bonita. Particularmente los Arduino UNO originales son de color
+verde azulado.</p>
 <p>Los clones tienen la misma forma que los originales, funcionan exactamente igual,
 casi siempre tienen una calidad muy buena (no es tan complicado fabricar un clon
 de arduino), si tenés suerte vienen en una bolsita antiestática y son
 relativamente baratos. Una forma de distinguir un Arduino Uno original de un clon
 es que normalmente los clones no dicen Arduino, pueden decir "Uno" o algo que
-termine con "duino" como Seeduino, Cosoino, Truchino, etc. En general son muy
-recomendables por su precio-calidad.</p>
+termine con "duino" como Seeduino, Cosoino, Truchino, etc. Es muy común que los
+clones de Arduino UNO sean color azul oscuro (a diferencia del original que es
+verde azulado). En general son muy recomendables por su precio-calidad.</p>
 <p>A las placas compatibles las podemos dividir entre las que son compatibles a nivel
 hardware porque usan el mismo microcontrolador que las originales (como los clones)
 y las compatibles a nivel software (que pueden ser programadas con el IDE de Arduino)</p>
@@ -133,6 +135,20 @@ usan lógica de 5 volts y muchos de los microcontroladores usados en estas
 placas sólo usan lógica de 3.3 volts, haciendo necesario usar un
 convertidor de niveles de tensión entre la placa y algunos
 sensores (level shifter).</p>
+<p>Arduino tiene una página con información más detallada sobre como identificar
+clones y modelos falsificados: https://support.arduino.cc/hc/en-us/articles/360020652100-How-to-spot-a-counterfeit-Arduino</p>
+<p><img alt="Ejemplos de placas" src="images/isthisarduino/ejemplo_placas.png"></p>
+<p>En la imagen anterior se puede ver:</p>
+<ul>
+<li>a) Un Arduino Uno original.</li>
+<li>b) Un clon de Arduino Uno.</li>
+<li>c) Una placa compatible a nivel hardware la Seeduino Groove.</li>
+<li>d) Una placa compatible a nivel software la NodeMCU con adaptador USB CP2102
+(el chip resaltado).</li>
+<li>e) Una placa compatible a nivel software la NodeMCU con adaptador USB CH340
+(el chip resaltado), estas son más anchas e incómodas de usar en protoboard que
+las anteriores.</li>
+</ul>
 <p>
 <span style="display: block; clear: both;"></span></p>
 <h3>¿Importa que sea un clon o una placa compatible?</h3>

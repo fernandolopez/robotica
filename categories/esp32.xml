@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Robótica Educativa (Publicaciones sobre esp32)</title><link>https://www.edurobotica.com.ar/</link><description></description><atom:link href="https://www.edurobotica.com.ar/categories/esp32.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:fernando.e.lopez@gmail.com"&gt;Fernando López&lt;/a&gt; </copyright><lastBuildDate>Wed, 27 Jul 2022 17:34:05 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Is this Arduino?</title><link>https://www.edurobotica.com.ar/posts/is-this-arduino/</link><dc:creator>Fernando López</dc:creator><description>&lt;p&gt;&lt;span style="display: block; clear: both;"&gt;&lt;/span&gt;&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Robótica Educativa (Publicaciones sobre esp32)</title><link>https://www.edurobotica.com.ar/</link><description></description><atom:link href="https://www.edurobotica.com.ar/categories/esp32.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:fernando.e.lopez@gmail.com"&gt;Fernando López&lt;/a&gt; </copyright><lastBuildDate>Wed, 27 Jul 2022 20:29:10 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Is this Arduino?</title><link>https://www.edurobotica.com.ar/posts/is-this-arduino/</link><dc:creator>Fernando López</dc:creator><description>&lt;p&gt;&lt;span style="display: block; clear: both;"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h3&gt;¿Qué dice google?&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="Is this Arduino?" src="https://www.edurobotica.com.ar/images/isthisarduino/isthisarduino.jpg" style="max-width: 30%; float: right;"&gt;&lt;/p&gt;
 &lt;p&gt;Si buscás Arduino en Internet, ya sea en un buscador o en M@rcado "Libre" vas a
@@ -13,15 +13,17 @@ algunos de ellos los vas a poder conectar con un Arduino, pero otro no.&lt;/p&gt
 &lt;p&gt;&lt;img alt="Es y no es. Usted me entiende." src="https://www.edurobotica.com.ar/images/isthisarduino/esynoes.jpg" style="max-width: 30%; float: right;"&gt;&lt;/p&gt;
 &lt;p&gt;Las placas originales son las que distribuye Arduino CC o algún distribuidor autorizado
 como Adafruit. La placa tiene la palabra "Arduino" en su nombre y las clásicas dicen
-"Made in Italy". Son de muy buena calidad, relativamente caras y vienen en una cajita
-muy bonita.&lt;/p&gt;
+"Designed and assembled in Italy". Son de muy buena calidad, relativamente caras y
+vienen en una cajita muy bonita. Particularmente los Arduino UNO originales son de color
+verde azulado.&lt;/p&gt;
 &lt;p&gt;Los clones tienen la misma forma que los originales, funcionan exactamente igual,
 casi siempre tienen una calidad muy buena (no es tan complicado fabricar un clon
 de arduino), si tenés suerte vienen en una bolsita antiestática y son
 relativamente baratos. Una forma de distinguir un Arduino Uno original de un clon
 es que normalmente los clones no dicen Arduino, pueden decir "Uno" o algo que
-termine con "duino" como Seeduino, Cosoino, Truchino, etc. En general son muy
-recomendables por su precio-calidad.&lt;/p&gt;
+termine con "duino" como Seeduino, Cosoino, Truchino, etc. Es muy común que los
+clones de Arduino UNO sean color azul oscuro (a diferencia del original que es
+verde azulado). En general son muy recomendables por su precio-calidad.&lt;/p&gt;
 &lt;p&gt;A las placas compatibles las podemos dividir entre las que son compatibles a nivel
 hardware porque usan el mismo microcontrolador que las originales (como los clones)
 y las compatibles a nivel software (que pueden ser programadas con el IDE de Arduino)&lt;/p&gt;
@@ -43,6 +45,20 @@ usan lógica de 5 volts y muchos de los microcontroladores usados en estas
 placas sólo usan lógica de 3.3 volts, haciendo necesario usar un
 convertidor de niveles de tensión entre la placa y algunos
 sensores (level shifter).&lt;/p&gt;
+&lt;p&gt;Arduino tiene una página con información más detallada sobre como identificar
+clones y modelos falsificados: https://support.arduino.cc/hc/en-us/articles/360020652100-How-to-spot-a-counterfeit-Arduino&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Ejemplos de placas" src="https://www.edurobotica.com.ar/images/isthisarduino/ejemplo_placas.png"&gt;&lt;/p&gt;
+&lt;p&gt;En la imagen anterior se puede ver:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a) Un Arduino Uno original.&lt;/li&gt;
+&lt;li&gt;b) Un clon de Arduino Uno.&lt;/li&gt;
+&lt;li&gt;c) Una placa compatible a nivel hardware la Seeduino Groove.&lt;/li&gt;
+&lt;li&gt;d) Una placa compatible a nivel software la NodeMCU con adaptador USB CP2102
+(el chip resaltado).&lt;/li&gt;
+&lt;li&gt;e) Una placa compatible a nivel software la NodeMCU con adaptador USB CH340
+(el chip resaltado), estas son más anchas e incómodas de usar en protoboard que
+las anteriores.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;
 &lt;span style="display: block; clear: both;"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h3&gt;¿Importa que sea un clon o una placa compatible?&lt;/h3&gt;

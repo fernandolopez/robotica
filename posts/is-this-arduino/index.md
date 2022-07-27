@@ -33,16 +33,18 @@ algunos de ellos los vas a poder conectar con un Arduino, pero otro no.
 
 Las placas originales son las que distribuye Arduino CC o algún distribuidor autorizado
 como Adafruit. La placa tiene la palabra "Arduino" en su nombre y las clásicas dicen
-"Made in Italy". Son de muy buena calidad, relativamente caras y vienen en una cajita
-muy bonita.
+"Designed and assembled in Italy". Son de muy buena calidad, relativamente caras y
+vienen en una cajita muy bonita. Particularmente los Arduino UNO originales son de color
+verde azulado.
 
 Los clones tienen la misma forma que los originales, funcionan exactamente igual,
 casi siempre tienen una calidad muy buena (no es tan complicado fabricar un clon
 de arduino), si tenés suerte vienen en una bolsita antiestática y son
 relativamente baratos. Una forma de distinguir un Arduino Uno original de un clon
 es que normalmente los clones no dicen Arduino, pueden decir "Uno" o algo que
-termine con "duino" como Seeduino, Cosoino, Truchino, etc. En general son muy
-recomendables por su precio-calidad.
+termine con "duino" como Seeduino, Cosoino, Truchino, etc. Es muy común que los
+clones de Arduino UNO sean color azul oscuro (a diferencia del original que es
+verde azulado). En general son muy recomendables por su precio-calidad.
 
 A las placas compatibles las podemos dividir entre las que son compatibles a nivel
 hardware porque usan el mismo microcontrolador que las originales (como los clones)
@@ -68,6 +70,21 @@ placas sólo usan lógica de 3.3 volts, haciendo necesario usar un
 convertidor de niveles de tensión entre la placa y algunos
 sensores (level shifter).
 
+Arduino tiene una página con información más detallada sobre como identificar
+clones y modelos falsificados: https://support.arduino.cc/hc/en-us/articles/360020652100-How-to-spot-a-counterfeit-Arduino
+
+![Ejemplos de placas](/images/isthisarduino/ejemplo_placas.png)
+
+En la imagen anterior se puede ver:
+
+* a) Un Arduino Uno original.
+* b) Un clon de Arduino Uno.
+* c) Una placa compatible a nivel hardware la Seeduino Groove.
+* d) Una placa compatible a nivel software la NodeMCU con adaptador USB CP2102
+(el chip resaltado).
+* e) Una placa compatible a nivel software la NodeMCU con adaptador USB CH340
+(el chip resaltado), estas son más anchas e incómodas de usar en protoboard que
+las anteriores.
 
 </span>
 <span style="display: block; clear: both;">
