@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Robótica Educativa</title><link>https://www.edurobotica.com.ar/</link><description>Recursos y anécdotas de robótica educativa, electrónica y proyectos.</description><atom:link href="https://www.edurobotica.com.ar/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:fernando.e.lopez@gmail.com"&gt;Fernando López&lt;/a&gt; </copyright><lastBuildDate>Wed, 27 Jul 2022 20:29:10 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Is this Arduino?</title><link>https://www.edurobotica.com.ar/posts/is-this-arduino/</link><dc:creator>Fernando López</dc:creator><description>&lt;p&gt;&lt;span style="display: block; clear: both;"&gt;&lt;/span&gt;&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Robótica Educativa</title><link>https://www.edurobotica.com.ar/</link><description>Recursos y anécdotas de robótica educativa, electrónica y proyectos.</description><atom:link href="https://www.edurobotica.com.ar/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:fernando.e.lopez@gmail.com"&gt;Fernando López&lt;/a&gt; </copyright><lastBuildDate>Thu, 28 Jul 2022 17:01:37 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Is this Arduino?</title><link>https://www.edurobotica.com.ar/posts/is-this-arduino/</link><dc:creator>Fernando López</dc:creator><description>&lt;p&gt;&lt;span style="display: block; clear: both;"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h3&gt;¿Qué dice google?&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="Is this Arduino?" src="https://www.edurobotica.com.ar/images/isthisarduino/isthisarduino.jpg" style="max-width: 30%; float: right;"&gt;&lt;/p&gt;
 &lt;p&gt;Si buscás Arduino en Internet, ya sea en un buscador o en M@rcado "Libre" vas a
@@ -95,7 +95,7 @@ los clones funcionan muy bien.&lt;/li&gt;
 &lt;li&gt;WiFi:&lt;ul&gt;
 &lt;li&gt;ESP8266 (Módulos como el NodeMCU con CP2102 y Weemos D1 Mini) o
 ESP32 son las alternativas más comunes.&lt;/li&gt;
-&lt;li&gt;Raspberry Pi Pico&lt;/li&gt;
+&lt;li&gt;Raspberry Pi Pico W&lt;/li&gt;
 &lt;li&gt;Alguna Raspberry Pi con WiFi integrado (acá ya estamos en la
 categoría de computadoras más que microcontroladores pero pueden
 ser una alternativa, hay que tener en cuenta que en general en

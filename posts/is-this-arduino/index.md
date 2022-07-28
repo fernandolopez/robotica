@@ -132,7 +132,7 @@ Conectividad inalámbrica:
 * WiFi:
     - ESP8266 (Módulos como el NodeMCU con CP2102 y Weemos D1 Mini) o
     ESP32 son las alternativas más comunes.
-    - Raspberry Pi Pico
+    - Raspberry Pi Pico W
     - Alguna Raspberry Pi con WiFi integrado (acá ya estamos en la
     categoría de computadoras más que microcontroladores pero pueden
     ser una alternativa, hay que tener en cuenta que en general en
