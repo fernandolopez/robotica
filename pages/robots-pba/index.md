@@ -31,6 +31,7 @@ por el Ministerio de Educación de la Provincia de Buenos Aires, por lo que
 pueden ser copiados y usados libremente.
 
 Documentos técnicos, proyectos y actividades:
+
 * [E-Bot (Educabot)](/pages/ppre/e-bot.md)
 * [T-Bot (Tecnobot - Robotgroup)](/pages/ppre/t-bot.md)
 * [L-Bot (Mis Ladrillos)](/pages/ppre/l-bot.md)

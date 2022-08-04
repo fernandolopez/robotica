@@ -19,6 +19,10 @@ y una actividad orientada a capacitadores de los kits
 [L-Bot (Mis Ladrillos R-8)](/pages/ppre/l-bot) y
 [T-Bot (Tecnobot - RobotGroup)](/pages/ppre/t-bot).
 
+Estas guías tienen consejos básicos para cuidar estos kits de robótica
+educativa, cómo la forma de almacenar sus baterías y de qué forma deben
+conectarse ciertos componentes (sensores o actuadores).
+
 </span>
 
 
