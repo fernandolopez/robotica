@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Robótica Educativa</title><link>https://www.edurobotica.com.ar/</link><description>Recursos y anécdotas de robótica educativa, electrónica y proyectos.</description><atom:link href="https://www.edurobotica.com.ar/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:fernando.e.lopez@gmail.com"&gt;Fernando López&lt;/a&gt; </copyright><lastBuildDate>Thu, 28 Jul 2022 17:01:37 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Is this Arduino?</title><link>https://www.edurobotica.com.ar/posts/is-this-arduino/</link><dc:creator>Fernando López</dc:creator><description>&lt;p&gt;&lt;span style="display: block; clear: both;"&gt;&lt;/span&gt;&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Robótica Educativa</title><link>https://www.edurobotica.com.ar/</link><description>Recursos y anécdotas de robótica educativa, electrónica y proyectos.</description><atom:link href="https://www.edurobotica.com.ar/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:fernando.e.lopez@gmail.com"&gt;Fernando López&lt;/a&gt; </copyright><lastBuildDate>Thu, 04 Aug 2022 20:45:33 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Guías de cuidado para los kits de robótica del PPRE</title><link>https://www.edurobotica.com.ar/posts/guias-de-cuidado-para-los-kits-de-robotica-del-ppre/</link><dc:creator>Fernando López</dc:creator><description>&lt;p&gt;&lt;span style="display: block; clear: both;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Animación armado de molino" src="https://www.edurobotica.com.ar/images/kits/animacionmolino.gif" style="max-width: 30%; float: right;"&gt;&lt;/p&gt;
+&lt;p&gt;Incorporo a la colección de documentos las guías de cuidados
+y una actividad orientada a capacitadores de los kits
+&lt;a href="https://www.edurobotica.com.ar/pages/ppre/e-bot"&gt;E-Bot (Educabot)&lt;/a&gt;,
+&lt;a href="https://www.edurobotica.com.ar/pages/ppre/l-bot"&gt;L-Bot (Mis Ladrillos R-8)&lt;/a&gt; y
+&lt;a href="https://www.edurobotica.com.ar/pages/ppre/t-bot"&gt;T-Bot (Tecnobot - RobotGroup)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</description><guid>https://www.edurobotica.com.ar/posts/guias-de-cuidado-para-los-kits-de-robotica-del-ppre/</guid><pubDate>Thu, 04 Aug 2022 20:34:00 GMT</pubDate></item><item><title>Is this Arduino?</title><link>https://www.edurobotica.com.ar/posts/is-this-arduino/</link><dc:creator>Fernando López</dc:creator><description>&lt;p&gt;&lt;span style="display: block; clear: both;"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h3&gt;¿Qué dice google?&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="Is this Arduino?" src="https://www.edurobotica.com.ar/images/isthisarduino/isthisarduino.jpg" style="max-width: 30%; float: right;"&gt;&lt;/p&gt;
 &lt;p&gt;Si buscás Arduino en Internet, ya sea en un buscador o en M@rcado "Libre" vas a
@@ -138,7 +145,7 @@ E-Bot (fabricado por Educabot) y L-Bot (fabricado por Mis Ladrillos).&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Kits de robótica" src="https://www.edurobotica.com.ar/images/kits/kits.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;En esta oportunidad con el fin de darles propósito nuevamente a esos
 kits y evitar que se conviertan en E-Waste quiero compartir algunos
-documentos que solían estar publicados en https://www.edurobotica.edu.ar
+documentos que solían estar publicados en https://www.edurobotica.abc.gob.ar
 (página que lleva inactiva al menos 2 años). Estos primeros documentos son
 datasheets con algunas características técnicas de los kits.&lt;/p&gt;
 &lt;ul&gt;

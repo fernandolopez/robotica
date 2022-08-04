@@ -29,7 +29,7 @@ E-Bot (fabricado por Educabot) y L-Bot (fabricado por Mis Ladrillos).
 
 En esta oportunidad con el fin de darles propósito nuevamente a esos
 kits y evitar que se conviertan en E-Waste quiero compartir algunos
-documentos que solían estar publicados en https://www.edurobotica.edu.ar
+documentos que solían estar publicados en https://www.edurobotica.abc.gob.ar
 (página que lleva inactiva al menos 2 años). Estos primeros documentos son
 datasheets con algunas características técnicas de los kits.
 

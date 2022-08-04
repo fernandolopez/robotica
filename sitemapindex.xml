@@ -7,23 +7,23 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://www.edurobotica.com.ar/categories/arduino.xml</loc>
-  <lastmod>2022-07-27T15:34:00Z</lastmod>
+  <lastmod>2022-07-28T17:01:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.edurobotica.com.ar/categories/esp32.xml</loc>
-  <lastmod>2022-07-27T15:34:00Z</lastmod>
+  <lastmod>2022-07-28T17:01:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.edurobotica.com.ar/categories/esp8266.xml</loc>
-  <lastmod>2022-07-27T15:34:00Z</lastmod>
+  <lastmod>2022-07-28T17:01:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.edurobotica.com.ar/categories/micropython.xml</loc>
-  <lastmod>2022-07-27T15:34:00Z</lastmod>
+  <lastmod>2022-07-28T17:01:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.edurobotica.com.ar/categories/raspberrypi.xml</loc>
-  <lastmod>2022-07-27T15:34:00Z</lastmod>
+  <lastmod>2022-07-28T17:01:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.edurobotica.com.ar/galleries/rss.xml</loc>
@@ -31,10 +31,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.edurobotica.com.ar/rss.xml</loc>
-  <lastmod>2022-07-27T15:34:00Z</lastmod>
+  <lastmod>2022-08-04T20:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.edurobotica.com.ar/sitemap.xml</loc>
-  <lastmod>2022-07-27T15:34:00Z</lastmod>
+  <lastmod>2022-08-04T20:34:00Z</lastmod>
  </sitemap>
 </sitemapindex>
