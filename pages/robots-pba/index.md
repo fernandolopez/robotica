@@ -11,9 +11,10 @@
 
 En Argentina, en la provincia de Buenos Aires, entre los años 2018 y 2020
 existió un proyecto estatal cuyo propósito era usar la robótica como
-herramienta educativa en escuelas primarias. En este contexto el ministerio
-de educación. Como parte de este proyecto se distribuyeron kits de robótica
-de distintas marcas en escuelas primarias estatales y privadas.
+herramienta educativa en escuelas primarias: el Plan Provincial de Robótica
+Educativa (PPRE). En este contexto el ministerio
+de educación distribuyó kits de robótica de distintas marcas en escuelas
+primarias estatales y privadas.
 
 Estos kits que fueron diseñados o configurados de acuerdo a los requerimientos
 del proyecto se denominaron T-Bot (fabricado por Robotgroup),
@@ -32,6 +33,6 @@ pueden ser copiados y usados libremente.
 
 Documentos técnicos, proyectos y actividades:
 
-* [E-Bot (Educabot)](/pages/ppre/e-bot.md)
-* [T-Bot (Tecnobot - Robotgroup)](/pages/ppre/t-bot.md)
-* [L-Bot (Mis Ladrillos)](/pages/ppre/l-bot.md)
+* [E-Bot (Educabot)](/pages/ppre/e-bot)
+* [T-Bot (Tecnobot - Robotgroup)](/pages/ppre/t-bot)
+* [L-Bot (R502 - Mis Ladrillos)](/pages/ppre/l-bot)
